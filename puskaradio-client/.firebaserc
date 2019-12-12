@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "socialape-80e0b",
+    "puskaradio": "puskaradio-f61bf",
+    "socialape-puskaradio": "socialape-80e0b"
+  }
+}

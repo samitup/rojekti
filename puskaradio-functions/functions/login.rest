@@ -1,0 +1,6 @@
+POST https://puskaradio-f61bf.firebaseapp.com/sisaankirjautuminen
+
+{
+    email: 123@123.dsa
+    password:qwertyu
+}

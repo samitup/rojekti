@@ -1,0 +1,5 @@
+POST  https://puskaradio-f61bf.firebaseapp.com/scream
+
+{
+    body: "asdasd"
+}
